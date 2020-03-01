@@ -1,0 +1,49 @@
+﻿  pch.cpp
+  ConsoleApplication1.cpp
+D:\Git\jiwang\项目一\ConsoleApplication1\InformationToImg.h(84,16): warning C4018: “>”: 有符号/无符号不匹配
+D:\Git\jiwang\项目一\ConsoleApplication1\InformationToImg.h(112,27): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Git\jiwang\项目一\ConsoleApplication1\ImgToData.h(95,39): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\Git\jiwang\项目一\ConsoleApplication1\ImgToData.h(95,31): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\Git\jiwang\项目一\ConsoleApplication1\ImgToData.h(95,48): warning C4244: “参数”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+D:\Git\jiwang\项目一\ConsoleApplication1\ImgToData.h(96,39): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\Git\jiwang\项目一\ConsoleApplication1\ImgToData.h(96,31): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\Git\jiwang\项目一\ConsoleApplication1\ConsoleApplication1.cpp(16,1): warning C4005: “w”: 宏重定义
+D:\Git\jiwang\项目一\ConsoleApplication1\ImgToData.h(15): message : 参见“w”的前一个定义
+D:\Git\jiwang\项目一\ConsoleApplication1\ConsoleApplication1.cpp(270,24): warning C4244: “初始化”: 从“double”转换到“long”，可能丢失数据
+  ConsoleApplication1.vcxproj -> D:\Git\jiwang\项目一\x64\Debug\ConsoleApplication1.exe
